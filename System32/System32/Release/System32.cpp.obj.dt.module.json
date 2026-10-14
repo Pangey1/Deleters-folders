@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\System32.obj",
+            "outputs": [
+                "Release\\System32.cpp.obj.dt.module.json",
+                "Release\\System32.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

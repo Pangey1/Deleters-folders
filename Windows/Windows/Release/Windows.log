@@ -1,0 +1,7 @@
+﻿  Windows.cpp
+D:\Windows\Windows\Windows.cpp(86,29): warning C4129: "*": нераспознанная escape-последовательность символов
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 500 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Windows.vcxproj -> D:\Windows\Release\Windows.exe
